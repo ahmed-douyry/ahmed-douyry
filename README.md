@@ -1,119 +1,146 @@
 <div align="center">
 
-# Hi, I'm Ahmed Douyry 👋
+<!-- 3D Contribution Graph via GitHub Action (github-profile-3d-contrib) -->
+<img src="https://raw.githubusercontent.com/ahmed-douyry/ahmed-douyry/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
 
-### Full-stack AI Developer
+<!-- Dynamic Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=36BCF7FF&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Ahmed+DOUYRY+👋;Full-Stack+AI+Developer+🚀;Master+SDIA+%40+ENSET+Mohammedia;Building+Intelligent+Web+Systems+🤖" alt="Typing SVG" />
 
-Building modern web apps and intelligent agents — from React/Laravel platforms to local-first RAG systems.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahmed--douyry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-douyry)
-[![Email](https://img.shields.io/badge/Email-ahmed.douyry%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.douyry@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-ahmed--douyry-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-douyry)
+<!-- Profile Views & Social Badges -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=ahmed-douyry&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <a href="https://linkedin.com/in/ahmed-douyry"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:ahmed.douyry@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://github.com/ahmed-douyry"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 </div>
 
 ---
 
-## About me
+## 🧠 About Me
 
-I'm a **Full-stack AI Developer** based in Morocco, currently pursuing a **Master's in Distributed Systems & Artificial Intelligence** at **ENSET Mohammedia**.
+```python
+class AhmedDouyry:
+    def __init__(self):
+        self.name        = "Ahmed DOUYRY"
+        self.role        = "Full-Stack AI Developer"
+        self.studies     = "Master 2 SDIA @ ENSET Mohammedia (2025–2027)"
+        self.location    = "ALYA 7, El Jadida, Maroc 🇲🇦"
+        self.languages   = ["Arabe 🌟", "Français 🌟", "Anglais ⭐⭐⭐"]
+        self.passions    = ["AI & LLMs", "RAG Systems", "Full-Stack Dev", "Open Source"]
+        self.currently   = "Building agentic AI apps with LangGraph + FastAPI"
 
-I design and ship end-to-end products: clean APIs, responsive UIs, and AI features that solve real problems (education, legal docs, e-commerce).
-
-- 🔭 Currently building **local-first RAG agents** (LangGraph · Ollama · Qdrant)
-- 🌱 Deepening skills in **systèmes distribués**, **ML/DL**, and **product engineering**
-- 💼 Open to internships & full-time opportunities in fullstack / AI engineering
-- ⚡ Stack comfort zone: **React · Laravel · Django · Node · Flutter · Python**
-
----
-
-## Featured projects
-
-| Project | What it does | Stack |
-|:--------|:-------------|:------|
-| [**Mourchid**](https://github.com/ahmed-douyry/mourchid-Enset-Assistant) | Academic RAG assistant for ENSET Mohammedia (local-first) | FastAPI · LangGraph · Ollama · Qdrant · React |
-| [**Stichara / LegalDoc**](https://github.com/ahmed-douyry/stichara) | Legal & admin RAG assistant for Moroccan law documents | FastAPI · LangGraph · React · Tailwind |
-| [**Portail ISTA Bouznika**](https://github.com/ahmed-douyry/PFE-2024-) | Full institute portal (admin + users) — PFE 2024 | Laravel · React · Vite · Tailwind · MySQL |
-| [**Raja Shop**](https://github.com/ahmed-douyry/rajashop) | Responsive e-commerce storefront | React · Bootstrap · [Live demo](https://ahmed-douyry.github.io/rajashop/) |
-| [**Gestion RDV**](https://github.com/ahmed-douyry/gestion-rendez-vous) | User & appointment management (web → desktop) | Laravel · Electron · MySQL |
+    def __str__(self):
+        return f"Passionate developer bridging AI and modern web 🚀"
+```
 
 ---
 
-## Tech stack
+## 🛠️ Tech Stack & Skills
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+### 💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,php,java,dart&theme=dark" alt="Languages"/>
+</p>
 
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+### 🌐 Web Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,express,laravel,spring,django,flutter,vite&theme=dark" alt="Frameworks"/>
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+### 🤖 AI / ML / Data Science
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI Frameworks"/>
+</p>
 
-### AI / Data
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3D5A?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC143C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Whisper"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/>
+</p>
 
-### Databases & DevOps
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🗄️ Databases & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,docker,git,github,vscode,idea&theme=dark" alt="DevOps & Databases"/>
+</p>
 
 ---
 
-## Education
-
-- **2026** — Master 1 · Systèmes Distribués & Intelligence Artificielle · ENSET Mohammedia
-- **2025** — Licence · Développement d'applications & IA · EST Casablanca
-- **2024** — Technicien spécialisé · Développement digital (Web Full Stack) · ISTA Bouznika
-
----
-
-## Experience highlights
-
-- **Yanvision** — Educational AI platform (Django · Vue.js · PostgreSQL · Docker)
-- **Agglead** — User & appointment management app (Laravel · Electron · MySQL)
-
----
-
-## Certifications
-
-- **Python PCAP** — Programming Essentials in Python · Cisco Networking Academy (Dec 2023)
-
----
-
-## Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ahmed-douyry&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-douyry&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-douyry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ahmed's GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-douyry&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-douyry&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" height="170"/>
+</div>
+
+---
+
+## 🌐 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-douyry&theme=tokyo-night&hide_border=true&area=true&custom_title=Ahmed's%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| [**⚖️ ISTICHARA**](https://github.com/ahmed-douyry/stichara) | Local-first RAG agentic assistant for Moroccan law & administration. Multi-agent orchestration with LangGraph, anti-hallucination, MCP server. | `Python` `FastAPI` `LangGraph` `Qdrant` `Ollama` `React` `Docker` |
+| [**🎓 MOURCHID**](https://github.com/ahmed-douyry/mourchid-Enset-Assistant) | Academic RAG assistant for ENSET Mohammedia. Voice dictation (Whisper), AI quiz generation, agentic chat with citations. | `Python` `FastAPI` `LangGraph` `Qdrant` `Whisper` `React` `Docker` |
+| [**🏫 Portail ISTA Bouznika**](https://github.com/ahmed-douyry/PFE-2024-.git) | Full web portal for ISTA Bouznika with admin/user management, Laravel backend + React frontend. | `Laravel` `React` `Vite` `MySQL` `Tailwind CSS` |
+| [**🛒 Raja Shop**](https://ahmed-douyry.github.io/rajashop/) | Responsive e-commerce front-end for Raja brand products. | `React.js` `JavaScript` `Bootstrap` `HTML` |
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-douyry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" width="100%"/>
+</div>
+
+---
+
+## 📜 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PCAP–Python%20Essentials-003A6C?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco PCAP"/>
+  &nbsp;
+  <span>Cisco Networking Academy — Dec. 2023</span>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-douyry)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.douyry@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmed-douyry)
+[![Phone](https://img.shields.io/badge/📞+212%20655%2071%2000%2017-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/212655710017)
+
 </div>
 
 ---
 
 <div align="center">
 
-### Let's build something useful together
+**⭐ If you find my projects interesting, feel free to give them a star!**
 
-📩 **ahmed.douyry@gmail.com** · 🔗 [linkedin.com/in/ahmed-douyry](https://linkedin.com/in/ahmed-douyry)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let's%20build%20something%20amazing!&fontSize=22&fontColor=fff&animation=twinkling" alt="Footer" width="100%"/>
 
 </div>

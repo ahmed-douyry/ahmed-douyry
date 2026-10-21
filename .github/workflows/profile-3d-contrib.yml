@@ -1,0 +1,40 @@
+name: GitHub Profile 3D Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # Runs daily at 18:00 UTC
+  workflow_dispatch:       # Allows manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D contribution graph
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ahmed-douyry
+        with:
+          SETTING_JSON: |
+            {
+              "githubUserName": "ahmed-douyry",
+              "startLongColor": "#0d1117",
+              "endLongColor": "#36BCF7",
+              "startShortColor": "#0d1117",
+              "endShortColor": "#58A6FF",
+              "backgroundColor1": "#0d1117",
+              "backgroundColor2": "#0d1117"
+            }
+
+      - name: Push output
+        run: |
+          git config user.email "ahmed.douyry@gmail.com"
+          git config user.name "ahmed-douyry"
+          git add -A .
+          git commit -m "chore: update 3D contribution graph [skip ci]" || true
+          git push
