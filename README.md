@@ -26,7 +26,6 @@ class AhmedDouyry:
         self.name        = "Ahmed DOUYRY"
         self.role        = "Full-Stack AI Developer"
         self.studies     = "Master 2 SDIA @ ENSET Mohammedia (2025–2027)"
-        self.location    = "ALYA 7, El Jadida, Maroc 🇲🇦"
         self.languages   = ["Arabe 🌟", "Français 🌟", "Anglais ⭐⭐⭐"]
         self.passions    = ["AI & LLMs", "RAG Systems", "Full-Stack Dev", "Open Source"]
         self.currently   = "Building agentic AI apps with LangGraph + FastAPI"
@@ -74,7 +73,7 @@ class AhmedDouyry:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmed-douyry&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Ahmed's GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-douyry&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=ahmed-douyry&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 </div>
 
 <div align="center">
@@ -83,10 +82,10 @@ class AhmedDouyry:
 
 ---
 
-## 🌐 Activity Graph
+## 🌐 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed-douyry&theme=tokyo-night&hide_border=true&area=true&custom_title=Ahmed's%20Contribution%20Graph" alt="Contribution Graph" width="95%"/>
+  <img src="https://ghchart.rshah.org/36BCF7/ahmed-douyry" alt="Ahmed's Contribution Graph" width="95%"/>
 </div>
 
 ---
@@ -99,7 +98,9 @@ class AhmedDouyry:
 |--------|-------------|-------|
 | [**⚖️ ISTICHARA**](https://github.com/ahmed-douyry/stichara) | Local-first RAG agentic assistant for Moroccan law & administration. Multi-agent orchestration with LangGraph, anti-hallucination, MCP server. | `Python` `FastAPI` `LangGraph` `Qdrant` `Ollama` `React` `Docker` |
 | [**🎓 MOURCHID**](https://github.com/ahmed-douyry/mourchid-Enset-Assistant) | Academic RAG assistant for ENSET Mohammedia. Voice dictation (Whisper), AI quiz generation, agentic chat with citations. | `Python` `FastAPI` `LangGraph` `Qdrant` `Whisper` `React` `Docker` |
-| [**🏫 Portail ISTA Bouznika**](https://github.com/ahmed-douyry/PFE-2024-.git) | Full web portal for ISTA Bouznika with admin/user management, Laravel backend + React frontend. | `Laravel` `React` `Vite` `MySQL` `Tailwind CSS` |
+| [**🏦 E-Bank Microservices**](https://github.com/ahmed-douyry/Projet---Syst-mes-Distribu-s-microservices) | Distributed banking application built with microservices and REST APIs. | `Java` `Spring Boot` `Spring Cloud` `Microservices` |
+| [**🏫 Portail ISTA Bouznika**](https://github.com/ahmed-douyry/PFE-2024-) | Full web portal for ISTA Bouznika with admin/user management, Laravel backend + React frontend. | `Laravel` `React` `Vite` `MySQL` `Tailwind CSS` |
+| [**🔐 Spring Security JWT**](https://github.com/ahmed-douyry/Sec-spring-sec-jwt) | Authentication and authorization with Spring Security and JWT. | `Java` `Spring Boot` `Spring Security` `JWT` |
 | [**🛒 Raja Shop**](https://ahmed-douyry.github.io/rajashop/) | Responsive e-commerce front-end for Raja brand products. | `React.js` `JavaScript` `Bootstrap` `HTML` |
 
 </div>
@@ -109,7 +110,7 @@ class AhmedDouyry:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-douyry&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Trophies" width="100%"/>
+  <a href="https://github.com/ahmed-douyry?tab=achievements">🏆 Voir mes trophées et achievements GitHub</a>
 </div>
 
 ---
