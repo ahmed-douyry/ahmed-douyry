@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Contribution Graph via GitHub Action (github-profile-3d-contrib) -->
-<img src="https://raw.githubusercontent.com/ahmed-douyry/ahmed-douyry/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+<img src="https://raw.githubusercontent.com/ahmed-douyry/ahmed-douyry/main/profile-3d-contrib/profile-night-rainbow.svg?v=20261021" alt="3D Contribution Graph" width="100%"/>
 
 <!-- Dynamic Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=36BCF7FF&center=true&vCenter=true&width=600&height=70&lines=Hi+there!+I'm+Ahmed+DOUYRY+👋;Full-Stack+AI+Developer+🚀;Master+SDIA+%40+ENSET+Mohammedia;Building+Intelligent+Web+Systems+🤖" alt="Typing SVG" />
